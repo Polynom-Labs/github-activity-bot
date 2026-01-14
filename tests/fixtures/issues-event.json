@@ -1,0 +1,25 @@
+{
+  "action": "opened",
+  "issue": {
+    "id": 11111,
+    "number": 5,
+    "title": "Test Issue",
+    "state": "open",
+    "user": {
+      "login": "testuser"
+    },
+    "html_url": "https://github.com/test-org/test-repo/issues/5",
+    "created_at": "2026-01-14T12:00:00Z",
+    "updated_at": "2026-01-14T12:00:00Z"
+  },
+  "repository": {
+    "name": "test-repo",
+    "full_name": "test-org/test-repo",
+    "owner": {
+      "login": "test-org"
+    }
+  },
+  "sender": {
+    "login": "testuser"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "GitHub Activity Bot",
+  "url": "https://github.com",
+  "hook_attributes": {
+    "url": "https://placeholder.ngrok.io/webhook",
+    "active": true
+  },
+  "redirect_url": "https://github.com",
+  "public": false,
+  "default_permissions": {
+    "contents": "read",
+    "issues": "read",
+    "pull_requests": "read",
+    "metadata": "read"
+  },
+  "default_events": [
+    "push",
+    "pull_request",
+    "pull_request_review",
+    "issues",
+    "issue_comment"
+  ]
+}

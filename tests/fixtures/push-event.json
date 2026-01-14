@@ -1,0 +1,27 @@
+{
+  "ref": "refs/heads/main",
+  "repository": {
+    "name": "test-repo",
+    "full_name": "test-org/test-repo",
+    "owner": {
+      "login": "test-org"
+    }
+  },
+  "pusher": {
+    "name": "testuser"
+  },
+  "commits": [
+    {
+      "id": "abc123def456",
+      "message": "Test commit message",
+      "author": {
+        "name": "Test User",
+        "username": "testuser"
+      },
+      "url": "https://github.com/test-org/test-repo/commit/abc123def456"
+    }
+  ],
+  "sender": {
+    "login": "testuser"
+  }
+}

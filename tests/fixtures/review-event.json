@@ -1,0 +1,25 @@
+{
+  "action": "submitted",
+  "review": {
+    "id": 67890,
+    "state": "approved",
+    "user": {
+      "login": "reviewer"
+    },
+    "html_url": "https://github.com/test-org/test-repo/pull/42#pullrequestreview-67890",
+    "submitted_at": "2026-01-14T11:00:00Z"
+  },
+  "pull_request": {
+    "number": 42
+  },
+  "repository": {
+    "name": "test-repo",
+    "full_name": "test-org/test-repo",
+    "owner": {
+      "login": "test-org"
+    }
+  },
+  "sender": {
+    "login": "reviewer"
+  }
+}
